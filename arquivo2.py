@@ -1,1 +1,3 @@
-# Olivaldo Filho e Edson Lopes Barbosa e Ryhan Gustavo Brunello
+# Olivaldo Filho e Edson Lopes Barbosa
+# Lucas Garcia Ribeiro
+# Ryhan Gustavo Brunello
